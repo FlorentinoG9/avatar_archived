@@ -104,14 +104,3 @@ Related to #
 
 ## Additional Notes
 
-<!-- Any additional information that reviewers should know -->
-
-## Version Impact
-
-<!-- Based on conventional commits, this PR will result in: -->
-- [ ] Major version bump (X.0.0) - Breaking changes
-- [ ] Minor version bump (0.X.0) - New features
-- [ ] Patch version bump (0.0.X) - Bug fixes, docs, refactoring
-
-<!-- The automated versioning system will handle this based on your commit messages -->
-
