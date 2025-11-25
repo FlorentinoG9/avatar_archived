@@ -13,3 +13,15 @@
 .env.development.local
 .env.test.local
 
+**/__pycache__/
+
+**/venv/
+**/venv.bak/
+**/venv.old/
+**/venv.old.bak/
+**/venv.old.bak.old/
+**/venv.old.bak.old.bak/
+**/venv.old.bak.old.bak.old/
+**/venv.old.bak.old.bak.old.old/
+**/venv.old.bak.old.bak.old.old.old/
+**/venv.old.bak.old.bak.old.old.old.old/
