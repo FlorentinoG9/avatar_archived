@@ -1,0 +1,11 @@
+# QML Module Definition for Brainwave Visualization modules
+module gui.v5.modules.brainwave-visualization
+
+# Main View
+VisualizationView 1.0 view.qml
+
+# Components
+GraphGrid 1.0 components/GraphGrid.qml
+DatasetSelector 1.0 components/DatasetSelector.qml
+
+

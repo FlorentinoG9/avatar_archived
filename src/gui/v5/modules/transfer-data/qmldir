@@ -1,0 +1,11 @@
+# QML Module Definition for Transfer Data
+module gui.v5.modules.transfer-data
+
+# Main View
+TransferDataView 1.0 view.qml
+
+# Components
+ConnectionForm 1.0 components/ConnectionForm.qml
+DirectorySelector 1.0 components/DirectorySelector.qml
+ControlButtons 1.0 components/ControlButtons.qml
+

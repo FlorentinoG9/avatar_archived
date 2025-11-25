@@ -1,0 +1,8 @@
+# QML Module Definition for NAO modules
+module gui.v5.modules.nao
+
+LeftPanel 1.0 components/LeftPanel.qml
+View3D 1.0 components/View3D.qml
+ConnectionCard 1.0 components/ConnectionCard.qml
+ConsoleLogger 1.0 components/ConsoleLogger.qml
+

@@ -1,0 +1,11 @@
+# QML Module Definition for File Shuffler
+module gui.v5.modules.file-shuffler
+
+# Main View
+FileShufflerView 1.0 view.qml
+
+# Components
+OutputDisplay 1.0 components/OutputDisplay.qml
+ActionButtons 1.0 components/ActionButtons.qml
+StatusIndicators 1.0 components/StatusIndicators.qml
+

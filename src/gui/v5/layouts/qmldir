@@ -1,0 +1,9 @@
+# QML Module Definition for GUI v5 Layouts
+module gui.v5.layouts
+
+# Layout Components
+TwoColumnLayout 1.0 TwoColumnLayout.qml
+SingleColumnLayout 1.0 SingleColumnLayout.qml
+TwoRowLayout 1.0 TwoRowLayout.qml
+ThreeColumnLayout 1.0 ThreeColumnLayout.qml
+GridLayout 1.0 GridLayout.qml

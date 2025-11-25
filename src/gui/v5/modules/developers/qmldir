@@ -1,0 +1,9 @@
+# QML Module Definition for Developers modules
+module gui.v5.modules.developers
+
+TierPanel 1.0 components/TierPanel.qml
+TierChart 1.0 components/TierChart.qml
+DevLog 1.0 components/DevLog.qml
+TicketLog 1.0 components/TicketLog.qml
+MedalDisplay 1.0 components/MedalDisplay.qml
+

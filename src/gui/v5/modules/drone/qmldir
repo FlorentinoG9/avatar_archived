@@ -1,0 +1,7 @@
+# QML Module Definition for Drone modules
+module gui.v5.modules.drone
+
+ControlPanel 1.0 components/ControlPanel.qml
+ConsoleLogger 1.0 components/ConsoleLogger.qml
+FlightLog 1.0 components/FlightLog.qml
+

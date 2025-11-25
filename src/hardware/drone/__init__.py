@@ -1,0 +1,3 @@
+"""
+Drone hardware controller module
+"""

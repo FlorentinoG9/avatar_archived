@@ -1,0 +1,12 @@
+# QML Module Definition for Brainwave modules
+module gui.v5.modules.brainwave
+
+# Main View
+BrainwaveView 1.0 view.qml
+
+# Components
+ControlPanel 1.0 components/ControlPanel.qml
+PredictionsTable 1.0 components/PredictionsTable.qml
+FlightLog 1.0 components/FlightLog.qml
+ConsoleLog 1.0 components/ConsoleLog.qml
+
